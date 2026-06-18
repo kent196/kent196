@@ -9,6 +9,9 @@ I'm Duong, but you can call me Kent, a Unity Game Developer, currently working i
 - [NumMatch: Logic Puzzle](https://play.google.com/store/apps/details?id=and.brainworks.nummatch&hl=vi)
 - [Sudoku Premier](https://play.google.com/store/apps/details?id=and.lihuhu.sudokupremier&hl=vi)
 - [Nut Island: Wood Screw Puzzle](https://play.google.com/store/apps/details?id=and.brainworks.woodnutgame&hl=vi)
+- [Sort Em! Triple Goods](https://play.google.com/store/apps/details?id=and.brainworks.sortgoods&hl=en)
+- [Block Slider: Color Jam](https://play.google.com/store/apps/details?id=and.brainworks.blockjam&hl=en)
+- [Goods Hunt - Hole It All](https://play.google.com/store/apps/details?id=and.lhhpub.goodshunt&hl=en)
 
 ### Where to find me 🙋‍♂️:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kent196) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kentdev196) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kentdev.196)
